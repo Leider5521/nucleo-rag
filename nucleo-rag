@@ -1,1 +1,0 @@
-Motor de recuperación híbrida (embeddings + BM25) y generación trazable con citas para consultar en lenguaje natural documentación empresarial heterogénea (PDF, XLSX, DOCX). Procesamiento local, índice incremental y evaluación separada de recuperación y generación."
